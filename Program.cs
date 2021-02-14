@@ -11,7 +11,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            // Run as Test <filename> <toXML|toJSON>
+            // Run as Test <filename> <toXML|toJSON>.   
             if (!CheckOptions(args))
                 return;
   
